@@ -32,4 +32,4 @@ The steps involved in the project are:
 
 
 Final result of analysis:
-The accuracy obtained is 0.9989%
+The accuracy obtained is 0.9989
