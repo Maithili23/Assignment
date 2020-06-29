@@ -3,12 +3,17 @@
 
 
 Project Topic : Credit Card Fraud Detection
+
 Reference : DLithe  
+
 Website : www.dlithe.com
+
 Project done under the guidance of : DLithe
 
-Done by: <NAME : Maithili Rao B S><USN : 4NM18CS088>
+Done by: NAME:Maithili Rao B S  ,  USN:4NM18CS088
+
 Credit Card Fraud Detection using Machine learning models
+
 
 The main objective of the Credit Card Fraud Detection is to predict faudlant credit card transactions so that the customers will not lose any money because of unknown transactions.
 
@@ -27,4 +32,5 @@ The steps involved in the project are:
 
 
 Final result of analysis:
+
 The accuracy obtained is 99.98%
